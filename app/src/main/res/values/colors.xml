@@ -2,6 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="green">#0F9D58</color>
+    <color name="lavender">#C2AFF0</color>
+    <color name="green">#99EDC3</color>
     <color name="transparent">#000</color>
 </resources>
